@@ -11,3 +11,8 @@ SELECT, FROM, LIMIT
 
 SELECT, FROM, GROUPY BY DESC/ASC
 ![alt text](<SQL SUBIR GITHUB/GROUP BY DESC.png>)
+
+## 🚀 Exemplo de Consulta
+WHERE, DATE, >
+
+![alt text](<SQL imagens/WHEREDATEMAIORQUE.png>)
