@@ -3,7 +3,7 @@ Este repositório contém meus estudos de SQL realizados através do site **data
 * SQL (Padrão ANSI)
 
 
-## 🚀 Exemplo de Consulta
+1 - ## 🚀 Exemplo de Consulta
 SELECT, FROM, LIMIT
 
 
@@ -12,7 +12,7 @@ SELECT, FROM, LIMIT
 SELECT, FROM, GROUPY BY DESC/ASC
 ![alt text](<SQL SUBIR GITHUB/GROUP BY DESC.png>)
 
-## 🚀 Exemplo de Consulta
+2 - ## 🚀 Exemplo de Consulta
 WHERE, DATE, >
 
-![alt text](<SQL imagens/WHEREDATEMAIORQUE.png>)
+![alt text](<SQL SUBIR GITHUB/WHEREDATEMAIORQUE.png>)
